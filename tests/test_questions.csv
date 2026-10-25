@@ -1,0 +1,17 @@
+
+question,expected_behavior
+"What is the purpose of Hackfest?","Answer from document with correct source"
+"Why is coding alone no longer a competitive advantage?","Answer from document if supported"
+"From which perspectives does SAP approach problems?","Answer from document if supported"
+"What is Hackfest trying to encourage students to do?","Answer from document if supported"
+"What is the title of the presentation?","Answer from document"
+"Which regional round is mentioned?","Answer from document"
+"Which company is mentioned on the first page?","Answer from document"
+"What month is shown on the first page?","Answer from document"
+"What is the company's leave policy?","Refuse if unavailable"
+"Who is the company's CEO?","Refuse if unavailable"
+"What is the attendance requirement?","Refuse if unavailable"
+"What is the capital of Japan?","Refuse unrelated question"
+"What is the weather in Bengaluru today?","Refuse unrelated question"
+"What is my college examination timetable?","Refuse if unavailable"
+"What is the company's salary policy?","Refuse if unavailable"
